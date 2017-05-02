@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+**/migrations/
+venv/
+vienv/
+node_modules/
+.DS_Store
+npm-debug.log
+staticfiles/
